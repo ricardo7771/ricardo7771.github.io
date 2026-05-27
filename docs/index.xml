@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mi Página Personal</title>
+		<link>https://ricardo7771.github.io/</link>
+		<description>Recent content on Mi Página Personal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://ricardo7771.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sobre mí</title>
+				<link>https://ricardo7771.github.io/posts/presentacion/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://ricardo7771.github.io/posts/presentacion/</guid>
+				<description>&lt;h1 id=&#34;hola&#34;&gt;Hola&lt;/h1&gt;&#xA;&lt;p&gt;Mi nombre es Ricardo Huchim.&lt;/p&gt;&#xA;&lt;p&gt;Soy estudiante de Desarrollo de Software Multiplataforma.&lt;/p&gt;&#xA;&lt;p&gt;Me interesa el desarrollo web, bases de datos y aplicaciones modernas.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
